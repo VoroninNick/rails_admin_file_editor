@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      file_editor:
+        title: "File Editor"
+        menu: "File Editor for %{model_label} '%{object_label}'"
+        breadcrumb: "File Editor"
+        link: "File Editor"
+        bulk_link: "File Editor selected %{model_label_plural}"
+        done: "File Editored"
